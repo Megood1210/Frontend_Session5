@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 600px;
+    background-color: #f8f9fa;
+    padding: 24px;
+}
+.title {
+    color: white;
+}
+th {
+    background-color: #007bff;
+    text-transform: uppercase;
+}
+td,th{
+    border:  1px solid white;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
