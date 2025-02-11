@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #f8f9fa;
+}
+
+.container .table .img-son {
+    width: 600px;
+    height: 400px;
+}
+
+.container .table .sub-card .para-span {
+    color: rgb(139, 79, 195);
+}
+
+.container .table .td-02 {
+    padding: 24px;
+}
+
+.container .table .sub-card {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.container .table .sub-card .time {
+    color: rgb(222, 186, 186);
+}
